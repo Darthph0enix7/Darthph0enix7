@@ -7,6 +7,6 @@ Machine learning has particularly piqued my interest lately, and I'm diving head
 But enough about me - I want to hear from you! Whether you're a fellow student or a seasoned developer, I'm always open to collaborating and learning from others. So why not drop me a message and let's chat about all things tech? I promise it'll be more exciting than watching paint dry!
 
 You can reach me via:
-E-mail = "kalinsaz123321@gmail.com";
+E-mail = "eren.enpoi@enpoi.com";
 Youtube = "https://www.youtube.com/channel/UCC-7l7m3ibt48_b09gJdjrA"
 beecrownd = ""
